@@ -25,4 +25,10 @@ sftp-config*.json
 .Spotlight-V100
 .Trashes
 
+# ImpactJS files and folder
 
+tools/
+lib/impact/
+lib/weltmeister/
+lib/game/levels/
+weltmeister.html
