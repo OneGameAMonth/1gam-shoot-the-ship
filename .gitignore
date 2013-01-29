@@ -27,8 +27,8 @@ sftp-config*.json
 
 # ImpactJS files and folder
 
+index.html
+lib/impact
+lib/weltmeister
 tools/
-lib/impact/
-lib/weltmeister/
-lib/game/levels/
 weltmeister.html
